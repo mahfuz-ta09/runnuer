@@ -159,6 +159,10 @@ img {
 	margin: 5% 0 0 8%;
 	width: 80%;
 }
+
+.custom {
+	flex-direction: column-reverse;
+}
 }
 @media only screen and (max-width : 918px) {
 #body {
@@ -315,3 +319,5 @@ img {
 	padding: 10% 0 10%;
 }
 }
+
+
